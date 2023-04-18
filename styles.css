@@ -39,6 +39,7 @@ body {
 
 #svg {
     width: 100%;
+    filter: invert(80%);
 }
 
 #pdf {
